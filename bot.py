@@ -18,7 +18,7 @@ try:
     BOT_TOKEN = config['token']
     CLIENT_ID = config['id']
     CLIENT_SECRET = config['secret']
-    MAIN_SERVER = 1437381878310109185  # Your main server ID
+    MAIN_SERVER = 1514455330589904936  # Your main server ID
     
     print(f"✅ Config loaded")
     print(f"🔑 Token: {BOT_TOKEN[:20]}...")
